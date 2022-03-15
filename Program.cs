@@ -29,17 +29,23 @@ namespace Classwork
             #region Bubble Sort
             //int[] array = new int[] { 1, 6, 2, 78, 6, 8, 7, 10 };
             //int temp = 0;
+            //bool swapped = false;
             //for (int i = 0; i < array.Length - 1; i++)
             //{
             //    for (int j = 0; j < array.Length - 1; j++)
             //    {
             //        if (array[j] > array[j + 1])
             //        {
+            //            swapped = true;
             //            temp = array[j + 1];
             //            array[j + 1] = array[j];
             //            array[j] = temp;
             //        }
             //    }
+            //    if(!swapped)
+            //     {
+            //       break;
+            //      }
             //}
             //foreach (int item in array)
             //{
