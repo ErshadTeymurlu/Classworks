@@ -5,3 +5,10 @@ C:\Users\User\source\repos\17-MarchClasswork\17-MarchClasswork\obj\Debug\17-Marc
 C:\Users\User\source\repos\17-MarchClasswork\17-MarchClasswork\obj\Debug\17-MarchClasswork.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\17-MarchClasswork\17-MarchClasswork\obj\Debug\17-MarchClasswork.exe
 C:\Users\User\source\repos\17-MarchClasswork\17-MarchClasswork\obj\Debug\17-MarchClasswork.pdb
+C:\Users\User\Desktop\Classworks\17-MarchClasswork\17-MarchClasswork\bin\Debug\17-MarchClasswork.exe.config
+C:\Users\User\Desktop\Classworks\17-MarchClasswork\17-MarchClasswork\bin\Debug\17-MarchClasswork.exe
+C:\Users\User\Desktop\Classworks\17-MarchClasswork\17-MarchClasswork\bin\Debug\17-MarchClasswork.pdb
+C:\Users\User\Desktop\Classworks\17-MarchClasswork\17-MarchClasswork\obj\Debug\17-MarchClasswork.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Classworks\17-MarchClasswork\17-MarchClasswork\obj\Debug\17-MarchClasswork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Classworks\17-MarchClasswork\17-MarchClasswork\obj\Debug\17-MarchClasswork.exe
+C:\Users\User\Desktop\Classworks\17-MarchClasswork\17-MarchClasswork\obj\Debug\17-MarchClasswork.pdb

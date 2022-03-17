@@ -12,10 +12,11 @@ namespace _17_MarchClasswork
         {
             int[] array = { 1, 2, 3, 7, 4, 23, 6, 3 };
             int average;
-            Console.Write("Average is " + CalculateAverage(array, out average));
+            CalculateAverage(array, out average);
+            
             Console.ReadLine();
         }
-        static int CalculateAverage(int[] arr,out int average)
+        static void CalculateAverage(int[] arr,out int average)
         {
             average = 0;
             for(int i = 0; i < arr.Length; i++)
@@ -23,7 +24,7 @@ namespace _17_MarchClasswork
                 average = average + arr[i];
             }
             average = average / arr.Length;
-            return average;
+            Console.Write("Average is " +average);
             
         }
     }
