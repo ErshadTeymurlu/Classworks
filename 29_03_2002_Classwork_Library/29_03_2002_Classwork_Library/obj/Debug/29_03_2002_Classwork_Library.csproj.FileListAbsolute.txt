@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\29_03_2002_Classwork_Library\29_03_2002_Classwork_Library\bin\Debug\29_03_2002_Classwork_Library.dll
+C:\Users\User\source\repos\29_03_2002_Classwork_Library\29_03_2002_Classwork_Library\bin\Debug\29_03_2002_Classwork_Library.pdb
+C:\Users\User\source\repos\29_03_2002_Classwork_Library\29_03_2002_Classwork_Library\obj\Debug\29_03_2002_Classwork_Library.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\29_03_2002_Classwork_Library\29_03_2002_Classwork_Library\obj\Debug\29_03_2002_Classwork_Library.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\29_03_2002_Classwork_Library\29_03_2002_Classwork_Library\obj\Debug\29_03_2002_Classwork_Library.dll
+C:\Users\User\source\repos\29_03_2002_Classwork_Library\29_03_2002_Classwork_Library\obj\Debug\29_03_2002_Classwork_Library.pdb
