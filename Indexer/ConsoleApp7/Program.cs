@@ -17,7 +17,7 @@ namespace ConsoleApp7
             gr[0] = cr1;
             gr[1] = cr2;
             gr[2] = cr3;
-            Console.WriteLine(gr[0].ToString());
+            Console.WriteLine(gr[0]);
             Console.ReadLine();
         }
     }

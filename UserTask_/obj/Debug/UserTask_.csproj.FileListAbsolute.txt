@@ -6,3 +6,10 @@ C:\Users\HP\source\repos\UserTask_\obj\Debug\UserTask_.csproj.SuggestedBindingRe
 C:\Users\HP\source\repos\UserTask_\obj\Debug\UserTask_.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\UserTask_\obj\Debug\UserTask_.exe
 C:\Users\HP\source\repos\UserTask_\obj\Debug\UserTask_.pdb
+C:\Users\User\Desktop\Classworks\UserTask_\bin\Debug\UserTask_.exe.config
+C:\Users\User\Desktop\Classworks\UserTask_\bin\Debug\UserTask_.exe
+C:\Users\User\Desktop\Classworks\UserTask_\bin\Debug\UserTask_.pdb
+C:\Users\User\Desktop\Classworks\UserTask_\obj\Debug\UserTask_.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Classworks\UserTask_\obj\Debug\UserTask_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Classworks\UserTask_\obj\Debug\UserTask_.exe
+C:\Users\User\Desktop\Classworks\UserTask_\obj\Debug\UserTask_.pdb
