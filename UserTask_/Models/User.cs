@@ -32,7 +32,8 @@ namespace UserTask_.Models
             get { return _password; }
             set
             {
-                if (value.IsUp() == true && value.IsLow() == true && value.IsDigit() == true) _password = value;
+                
+                if (value.IsUp() == true && value.IsLow() == true && value.IsDigit() == true && value.Length >=8 && value.Length<=16) _password = value;
             }
         }
     }

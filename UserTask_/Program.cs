@@ -11,7 +11,7 @@ namespace UserTask_
     {
         static void Main(string[] args)
         {
-            User us1 = new User("user_name1", "sS2dsa");
+            User us1 = new User("user_name1", "sS2dsasfAF12a");
             Console.WriteLine($"Username - {us1.UserName}\nPassword - {us1.Password}");
             Console.ReadLine();
         }
