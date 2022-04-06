@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\bin\Debug\net5.0\06_04_2022_Classwork.exe
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\bin\Debug\net5.0\06_04_2022_Classwork.deps.json
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\bin\Debug\net5.0\06_04_2022_Classwork.runtimeconfig.json
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\bin\Debug\net5.0\06_04_2022_Classwork.runtimeconfig.dev.json
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\bin\Debug\net5.0\06_04_2022_Classwork.dll
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\bin\Debug\net5.0\ref\06_04_2022_Classwork.dll
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\bin\Debug\net5.0\06_04_2022_Classwork.pdb
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\obj\Debug\net5.0\06_04_2022_Classwork.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\obj\Debug\net5.0\06_04_2022_Classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\obj\Debug\net5.0\06_04_2022_Classwork.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\obj\Debug\net5.0\06_04_2022_Classwork.AssemblyInfo.cs
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\obj\Debug\net5.0\06_04_2022_Classwork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\obj\Debug\net5.0\06_04_2022_Classwork.dll
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\obj\Debug\net5.0\ref\06_04_2022_Classwork.dll
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\obj\Debug\net5.0\06_04_2022_Classwork.pdb
+C:\Users\User\source\repos\06_04_2022_Classwork\06_04_2022_Classwork\obj\Debug\net5.0\06_04_2022_Classwork.genruntimeconfig.cache
