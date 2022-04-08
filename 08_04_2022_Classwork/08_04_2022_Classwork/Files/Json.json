@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Products": {
+      "Id": 1,
+      "Name": "S22 Gray",
+      "Price": 2365
+    },
+    "TotalPrice": 9460.0,
+    "Count": 4
+  },
+  {
+    "Id": 2,
+    "Products": {
+      "Id": 2,
+      "Name": "Mi A2",
+      "Price": 407
+    },
+    "TotalPrice": 2035.0,
+    "Count": 5
+  },
+  {
+    "Id": 3,
+    "Products": {
+      "Id": 3,
+      "Name": "Iphone 7",
+      "Price": 1056
+    },
+    "TotalPrice": 7392.0,
+    "Count": 7
+  }
+]

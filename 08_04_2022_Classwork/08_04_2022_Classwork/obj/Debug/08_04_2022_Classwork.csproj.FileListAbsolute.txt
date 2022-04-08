@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\08_04_2022_Classwork\08_04_2022_Classwork\bin\Debug\08_04_2022_Classwork.exe.config
+C:\Users\User\source\repos\08_04_2022_Classwork\08_04_2022_Classwork\bin\Debug\08_04_2022_Classwork.exe
+C:\Users\User\source\repos\08_04_2022_Classwork\08_04_2022_Classwork\bin\Debug\08_04_2022_Classwork.pdb
+C:\Users\User\source\repos\08_04_2022_Classwork\08_04_2022_Classwork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\08_04_2022_Classwork\08_04_2022_Classwork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\08_04_2022_Classwork\08_04_2022_Classwork\obj\Debug\08_04_2022_Classwork.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\08_04_2022_Classwork\08_04_2022_Classwork\obj\Debug\08_04_2022_Classwork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\08_04_2022_Classwork\08_04_2022_Classwork\obj\Debug\08_04_2022_Classwork.csproj.CopyComplete
+C:\Users\User\source\repos\08_04_2022_Classwork\08_04_2022_Classwork\obj\Debug\08_04_2022_Classwork.exe
+C:\Users\User\source\repos\08_04_2022_Classwork\08_04_2022_Classwork\obj\Debug\08_04_2022_Classwork.pdb
