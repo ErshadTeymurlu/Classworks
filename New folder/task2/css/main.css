@@ -1,0 +1,31 @@
+.main{
+    border: 10px solid rgba(128, 128, 128, 0.041);
+    width: 509px;
+    margin: 0 auto;
+}
+.container{
+    
+    width: 509px;
+    height: 720px;
+    box-shadow: 4px 4px 8px gray;
+}
+.bottom{
+    padding: 30px;
+}
+.bottom span{
+    color: grey;
+    font-family: sans-serif
+}
+.bottom h2{
+    font-family: sans-serif;
+}
+.bottom a{
+    color: grey;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.bottom p{
+    color: grey;
+    line-height: 22px;
+    font-size: larger;
+}

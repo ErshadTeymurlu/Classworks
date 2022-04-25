@@ -1,0 +1,26 @@
+.content{
+    background-color: rgb(0, 255, 255);
+    width: 500px;
+    height: 420px;
+    margin: 0 auto;
+}
+.content img{
+ padding-top: 30px;
+}
+.padding{
+    background: green;
+    width: 600px;
+    height: 460px;
+    margin: 0 auto;
+}
+.border{
+    background: yellow;
+    height: 500px;
+    width: 700px;
+    margin: 0 auto;
+}
+.margin{
+    background: rgb(155, 68, 7);
+    width: 800px;
+    height: 550px;
+}

@@ -1,0 +1,30 @@
+.main{
+    width: 500px;
+    border: 5px solid green;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 10px;
+    padding: 20px;
+    margin: 0 auto;
+}
+.main p{
+    /* margin-left: 10px; */
+}
+.ipsum{
+    text-decoration: line-through;
+}
+.middle{
+    background-color:rgba(22, 143, 241, 0.712);
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom: 5px green solid;
+}
+.lorem{
+    font-weight: bold;
+}
+.line{
+    line-height: 30px;
+    padding: 20px;
+}
