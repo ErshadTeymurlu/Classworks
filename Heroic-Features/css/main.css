@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif
+}
+.header-section{
+    background-color: #212529;
+    padding: 15px;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.h2-site-name{
+    float: left;
+    color: white;
+}
+.menu{
+    float: right;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.clear{
+    clear: both;
+}
+.menu-about{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.top-content{
+    text-align: center;
+    background-color: #F8F9FA;
+    padding: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 40px;
+}
+.action-button{
+    display: inline-block;
+    background-color: #0D6EFD;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.top-content p{
+    font-size: 20px;
+}
+.top-content h1{
+    margin-bottom: 10px;
+    font-size: 35px;
+}
+.fresh-new-layout{
+    text-align: center;
+    background-color: #F8F9FA;
+    width: 400px;
+    padding: 40px;
+    float: left;
+}
+.below-content{
+    margin-top: 40px;
+}
+.rectangle-history-icon{
+    color: white;
+    font-size: 30px;
+    background-color: #267DFD;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    line-height: 60px;
+    border-radius: 5px;
+}
+.fresh-new-layout h2{
+    margin-bottom: 10px;
+}
+.rights-reserved{
+    text-align: center;
+}
+.copy-right{
+    background-color: #212529;
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.rights-reserved{
+    padding: 40px;
+}
