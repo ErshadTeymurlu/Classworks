@@ -1,0 +1,190 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background-color: black;
+}
+html{
+    scroll-behavior: smooth;
+}
+.container{
+    width: 1350px;
+    margin: auto;
+}
+.logo{
+    float: left;
+}
+.menu{
+    float: right;
+    margin-top: 15px;
+    font-size: 17px;
+}
+.menu a{
+    text-decoration: none;
+    color: rgb(228, 225, 225);
+    margin-left: 20px;
+    letter-spacing: 2px;
+}
+.header{
+    background-color: black;
+    padding: 20px;
+}
+.clear{
+    clear: both;
+}
+#banner{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.521), rgba(0, 0, 0, 0.719)) ,url("../assets/images/banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: calc(100vh - 65px);
+}
+.banner-content{
+padding-top: 240px;
+}
+.banner-title{
+    font-size: 150px;
+    color: rgb(228, 225, 225);
+    font-weight: 900;
+}
+.banner-subtitle{
+    font-size: 50px;
+    letter-spacing: 5px;
+    color: rgb(228, 225, 225);
+    padding-left: 5px;
+    margin-bottom: 40px;
+}
+.button{
+    background-color: #C51908;
+    color: rgb(228, 225, 225);
+    text-decoration: none;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 7px;
+    margin-left: 5px;
+    border: none;
+    font-size: 17px;
+    font-weight: 500;
+    transition: all .3s ease;
+}
+.button:hover{
+    background-color: rgb(228, 225, 225);
+    color: #C51908;;
+}
+.about-container img{
+    height: 450px;
+    border-radius: 30px;
+    float: left;
+}
+.about-container{
+    color: rgb(228, 225, 225);
+    margin-top: 80px;
+}
+.about-content{
+    float: right;
+    width: 55%;
+    margin-top: 60px;
+    font-size: 20px;
+}
+.about-content h2{
+    margin-bottom: 10px;
+    font-weight: 900;
+}
+.about-content p{
+    word-spacing: 2px;
+    color: rgb(228, 225, 225);
+    font-size: 18px;
+    line-height: 1.7;
+    text-align: justify;
+}
+#album{
+    margin-top: 80px;
+}
+.album-for-sale{
+    width: 32%;
+    background-color: rgb(228, 225, 225);
+    padding: 10px;
+    float: left;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    transition: all .3s ease;
+}
+.album-for-sale:nth-child(3n-1){
+    margin: 0px 2%;
+}
+.album-for-sale img{
+    margin-bottom: 10px;
+    width: 100%;
+}
+.album-for-sale p:first-of-type{
+    margin-bottom: 10px;
+}
+.album-for-sale p{
+    font-size: 25px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
+.album-for-sale .price{
+    color: #C51908;
+    font-weight: 900;
+    font-size: 30px;
+}
+.album-for-sale:hover{
+    transform: scale(1.03);
+    cursor: pointer;
+    box-shadow:0px 0px 35px 0px #fffffff2;
+}
+.contact-info{
+    color: rgb(228, 225, 225);
+}
+.contact-title{
+    font-weight: 900;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.contact-info a{
+    color: #C51908;
+    font-size: 25px;
+    text-decoration: none;
+}
+.contact-info form{
+    margin-top: 40px;
+}
+.contact-info input.name{
+    width: 49%;
+    float: left;
+}
+.contact-info input.mail{
+    width: 49%;
+    float: right;
+}
+.contact-info input, .contact-info form textarea{
+    outline: none !important;
+    padding: 10px 15px;
+    border: none;
+    color: rgb(228, 225, 225);
+    background-color: #2c2c2c;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.contact-info form textarea{
+    min-width: 100%;
+    max-width: 100%;
+    height: 150px;
+}
+footer{
+    color: rgb(228, 225, 225);
+    margin: 40px 0px;
+}
+footer p{
+    text-align: center;
+    font-size: 20px;
+}
+
+
