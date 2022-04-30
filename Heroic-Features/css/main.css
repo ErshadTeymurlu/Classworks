@@ -12,9 +12,10 @@
     width: 1200px;
     margin: auto;
 }
-.h2-site-name{
+.p-site-name{
     float: left;
     color: white;
+    font-weight: 300px;
 }
 .menu{
     float: right;
@@ -22,7 +23,7 @@
 .menu a{
     text-decoration: none;
     color: white;
-    font-size: 20px;
+    font-size: 15px;
 }
 .clear{
     clear: both;
@@ -30,6 +31,20 @@
 .menu-about{
     margin-left: 10px;
     margin-right: 10px;
+}
+.menu-about span{
+    color: gray;
+    transition: all .3s ease;
+}
+.menu-about :hover{
+    color: rgb(190, 190, 190);
+}
+.menu-contact span{
+    color: gray;
+    transition: all .3s ease;
+}
+.menu-contact :hover{
+    color: rgb(190, 190, 190);
 }
 .top-content{
     text-align: center;
@@ -51,6 +66,7 @@
     padding-left: 25px;
     padding-right: 25px;
 }
+
 .top-content p{
     font-size: 20px;
 }
@@ -61,12 +77,15 @@
 .fresh-new-layout{
     text-align: center;
     background-color: #F8F9FA;
-    width: 400px;
+    width: 385px;
     padding: 40px;
     float: left;
+    margin-bottom: 30px;
+    box-sizing: border-box;
 }
 .below-content{
-    margin-top: 40px;
+    margin-top: 30px;
+    width: 100%;
 }
 .rectangle-history-icon{
     color: white;
@@ -90,7 +109,26 @@
     color: white;
     font-size: 15px;
     font-weight: lighter;
+    padding: 30px;
 }
-.rights-reserved{
-    padding: 40px;
+.fresh-new-layout:nth-child(n){
+    margin-right: 20px;
 }
+.fresh-new-layout:nth-child(3n-1){
+    margin-left: 3px;
+}
+.fresh-new-layout:nth-child(3n){
+    float: right;
+    margin-right: 0;
+}
+.copy-right .container h4{
+    text-align: center;
+}
+.rectangle-history-icon{
+    position: relative;
+    top: -60px;
+}
+.box-content{
+    position: relative;
+    top: -20px;
+} 
