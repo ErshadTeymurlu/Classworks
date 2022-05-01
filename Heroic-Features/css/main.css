@@ -77,7 +77,7 @@
 .fresh-new-layout{
     text-align: center;
     background-color: #F8F9FA;
-    width: 385px;
+    width: 32%;
     padding: 40px;
     float: left;
     margin-bottom: 30px;
@@ -111,16 +111,11 @@
     font-weight: lighter;
     padding: 30px;
 }
-.fresh-new-layout:nth-child(n){
-    margin-right: 20px;
-}
+
 .fresh-new-layout:nth-child(3n-1){
-    margin-left: 3px;
+    margin: 0px 2%;
 }
-.fresh-new-layout:nth-child(3n){
-    float: right;
-    margin-right: 0;
-}
+
 .copy-right .container h4{
     text-align: center;
 }
