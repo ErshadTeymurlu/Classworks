@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: sans-serif;
+}
 .container{
     width: 80%;
     margin: auto;
@@ -14,7 +17,7 @@
 .head-h1{
     color: white;
     float: left;
-    font-size: 30px;
+    font-size: 25px;
 }
 .head-h1 a{
     text-decoration: none;
@@ -58,13 +61,43 @@ h1,.banner p{
     font-size: 20px;
     color: rgb(163, 163, 163);
 }
-h1{
+.banner-content{
+  margin: auto;
+  text-align: center;
+  position: relative;
+  top: 20%;
+  z-index: 0;
+}
+.banner-content h1{
     color: white;
-    margin-top: 15%;
+    line-height: 60px;
     font-size: 50px;
 }
-hr{
-    background-color: red;
-    width: 20px;
-    text-align: center;
+.banner-content p{
+    line-height: 25px;
+    color: rgb(185, 184, 184);
+}
+.red-line{
+    background-color: #F4623A;
+    width: 60px;
+    margin: auto;
+    height: 5px;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.banner-button{
+    background-color: #F4623A;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+    font-weight: 750;
+    padding: 20px 40px;
+    margin-top: 50px;
+    transition: all .3s ease;
+}
+.banner-button:hover{
+    background-color:#ce5432
 }
