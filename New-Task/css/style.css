@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.header{
+    padding: 20px;
+    background-color: transparent;
+}
+.head-h1{
+    color: white;
+    float: left;
+    font-size: 30px;
+}
+.head-h1 a{
+    text-decoration: none;
+    color: rgb(207, 206, 206);
+    transition: all .3s ease;
+}
+.head-h1 a:hover{
+    color: white;
+}
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(207, 206, 206);
+    margin-left: 20px;
+    font-size: 20px;
+    transition: all .3s ease;
+}
+ul{
+    float: right;
+    margin-top: 5px;
+}
+ul li a:hover{
+    color: white;
+}
+.banner{
+    background-image: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%),url("../images/banner.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.clear{
+    clear: both;
+}
+h1,.banner p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    color: rgb(163, 163, 163);
+}
+h1{
+    color: white;
+    margin-top: 15%;
+    font-size: 50px;
+}
+hr{
+    background-color: red;
+    width: 20px;
+    text-align: center;
+}
