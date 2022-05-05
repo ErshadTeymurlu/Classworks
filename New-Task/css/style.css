@@ -62,29 +62,34 @@ h1,.banner p{
     color: rgb(163, 163, 163);
 }
 .banner-content{
-  margin: auto;
-  text-align: center;
-  position: relative;
-  top: 20%;
-  z-index: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 70px);
 }
 .banner-content h1{
     color: white;
     line-height: 60px;
     font-size: 50px;
+    margin-bottom: 50px;
 }
 .banner-content p{
     line-height: 25px;
     color: rgb(185, 184, 184);
+    position: relative;
 }
-.red-line{
+.banner-content p:before{
+    content: "";
     background-color: #F4623A;
     width: 60px;
-    margin: auto;
     height: 5px;
     border-radius: 30px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    position: absolute;
+    top: -30px;
+    left: calc(50% - 30px);
+
 }
 .banner-button{
     background-color: #F4623A;
@@ -98,6 +103,91 @@ h1,.banner p{
     margin-top: 50px;
     transition: all .3s ease;
 }
+.sect-button{
+    background-color:white ;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    color: black;
+    font-weight: bold;
+    font-weight: 750;
+    padding: 20px 40px;
+    margin-top: 50px;
+    transition: all .3s ease;
+    cursor: pointer;
+
+}
 .banner-button:hover{
     background-color:#ce5432
+}
+.item .headline{
+    line-height: 45px;
+}
+.at-your-service{
+    text-align: center;
+    height: 350px;
+    background-color: #FFFFFF;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.wrapper i{
+    font-size: 40px;
+    color: #F4623A;
+}
+.wrapper .headline{
+    font-size: 25px;
+    font-weight: 700px;
+}
+.at-your-service .top-headline{
+    margin-top: 120px;
+    margin-bottom: 100px;
+    position: relative;
+    font-size: 35px;
+}
+.at-your-service .top-headline::after{
+    content: "";
+    background-color: #F4623A;
+    width: 60px;
+    height: 5px;
+    border-radius: 30px;
+    position: absolute;
+    top: 60px;
+    left: calc(50% - 30px);
+
+}
+.item .description{
+    color: rgb(100, 100, 100);
+}
+.what-you-need{
+    background-color: #F4623A;
+    height: 450px;
+    color: white;
+}
+.you-need-container{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding-top: 100px;
+    font-size: 20px;
+}
+.p-after{
+    font-size: 40px;
+    position: relative;
+    margin-bottom: 50px;
+}
+.p-after::after{
+    content: "";
+    background-color: white;
+    width: 60px;
+    height: 5px;
+    border-radius: 30px;
+    position: absolute;
+    top: 65px;
+    left: calc(50% - 30px);
+}
+.you-need-container .desc{
+    color: rgba(255, 255, 255, 0.75)
 }
